@@ -1,5 +1,9 @@
 <changelog xmlns="urn:speedata.de:2014/changelog">
   <chapter version="2.4">
+    <entry version="2.4.5" date="2016-08-03">
+      <en>Backport bugfix for half grid allocation</en>
+      <de>Rückportierung einer Fehlerkorrektur für Rasterbelegung für halbe Zellen.</de>
+    </entry>
     <entry version="2.4.4" date="2016-06-18">
       <en>Various bugfixes: leaders disappear on a linebreak, Nobreak allows setting for font family, escape attribute contents, fix for bad images.</en>
       <de>Verschiede Fehlerkorrekturen: Führungspunkte verschwinden bei einem Zeilenwechsel, KeinUmbruch erlaubt die Angabe einer Schriftfamilie, Attribut-Werte werden nicht escaped, kaputte Bilder (ohne DPI-Angaben) werden besser behandelt.</de>
