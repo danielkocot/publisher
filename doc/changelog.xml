@@ -1,6 +1,9 @@
 <changelog xmlns="urn:speedata.de:2014/changelog">
   <chapter version="2.6">
-    
+    <entry version="2.6.1" date="2016-08-18">
+      <en>Bugfix for Mac and Linux ZIP files</en>
+      <de>Fehlerkorrektur für Mac und Linux ZIP-Dateien</de>
+    </entry>
   </chapter>
   <chapter version="2.5" date="2016-08-11">
     <entry version="2.5.13" date="2016-08-10">
